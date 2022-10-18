@@ -1,0 +1,56 @@
+[[plugins]]
+repo = 'Shougo/dein.vim'
+
+[[plugins]]
+
+repo = 'mattn/emmet-vim'
+
+[[plugins]]
+
+repo = 'vim-airline/vim-airline'
+
+[[plugins]]
+
+repo = 'vim-airline/vim-airline-themes'
+
+[[plugins]]
+
+repo = 'tomasr/molokai'
+
+[[plugins]]
+
+repo = 'tpope/vim-fugitive'
+
+[[plugins]]
+
+repo = 'ctrlpvim/ctrlp.vim'
+
+[[plugins]]
+
+repo = 'crusoexia/vim-monokai'
+
+[[plugins]]
+
+repo = 'pangloss/vim-javascript'
+
+[[plugins]]
+
+repo = 'othree/html5.vim'
+
+[[plugins]]
+
+repo = 'cohama/lexima.vim'
+
+[[plugins]]
+#html5 code syntax
+repo = 'hail2u/vim-css3-syntax'
+
+[[plugins]]
+
+repo = 'alvan/vim-closetag'
+
+[[plugins]]
+
+repo = 'neoclide/coc.nvim'
+rev = 'release'
+merged = '0'
